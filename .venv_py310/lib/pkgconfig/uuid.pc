@@ -1,0 +1,11 @@
+prefix=/workspaces/Q-A-using-LLAMAINDEX/.venv_py310
+exec_prefix=/workspaces/Q-A-using-LLAMAINDEX/.venv_py310
+libdir=/workspaces/Q-A-using-LLAMAINDEX/.venv_py310/lib
+includedir=/workspaces/Q-A-using-LLAMAINDEX/.venv_py310/include
+
+Name: uuid
+Description: Universally unique id library
+Version: 2.32.1
+Requires:
+Cflags: -I${includedir}/uuid
+Libs: -L${libdir} -luuid
