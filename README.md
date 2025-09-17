@@ -76,4 +76,4 @@ Development notes and next steps
 - Replace local manual shims with proper version alignment when moving to production.
 
 Contact
-- For questions about this repo, ask the maintainer or open an issue.
+- For questions about this repo, you can send me an emial to chandra.r0723@gmail.com.
